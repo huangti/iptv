@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 Nickelodeon
+#EXTINF:-1 group-title="kids",Nickelodeon
 http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 Rakuten Family
+#EXTINF:-1 group-title="family",Rakuten Family
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 HBO Family
+#EXTINF:-1 group-title="family",HBO Family
 http://170.254.18.106/HBO_FAMILY/index.m3u8
-#EXTINF:-1 Bloomberg TV
+#EXTINF:-1 group-title="biz",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 Yahoo! Finance
+#EXTINF:-1 group-title="biz",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
