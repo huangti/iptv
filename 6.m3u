@@ -3,9 +3,17 @@
 http://143.244.60.30/NICKELODEON/index.m3u8
 #EXTINF:-1 group-title="family",Rakuten Family
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="family",Disney International
-http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
+#EXTINF:-1,tvg-id="爱玩具" tvg-name="iHOT爱玩具" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱玩具.png" group-title="IHOT",iHOT爱玩具
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
+#EXTINF:-1,tvg-id="爱动漫" tvg-name="iHOT爱动漫" tvg-logo="https://epg.112114.eu.org/logo/IHOT爱动漫.png" group-title="IHOT",iHOT爱动漫
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000280630&livemode=1&stbId=3
 #EXTINF:-1 group-title="biz",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="biz",Bloomberg TV+
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="biz",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.eu.org/logo/凤凰卫视中文台.png" group-title="fenghuang",凤凰中文
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.eu.org/logo/凤凰卫视资讯台.png" group-title="fenghuang",凤凰资讯
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
