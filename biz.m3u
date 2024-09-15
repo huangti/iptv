@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="kid",Nickelodeon
-http://143.244.60.30/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="kid",Rakuten Family
-https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="biz",Bloomberg TV
 https://bloomberg-bloomberg-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="biz",Bloomberg TV+
